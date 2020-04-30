@@ -1,0 +1,4 @@
+<?php
+echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">';　//將網頁編碼設定為 utf-8
+echo "<font color='blue'>這是藍色的文字</font>";
+?>
